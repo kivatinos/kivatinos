@@ -42,21 +42,6 @@ Serial entrepreneur building at the intersection of AI and finance. Previously c
   </a>
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <h3>$67M+</h3>
-        <p>Payment Volume</p>
-      </td>
-      <td align="center" width="200">
-        <h3>13K+</h3>
-        <p>Invoices Processed</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 Backed by **Y Combinator**, **Kleiner Perkins**, **Goodwater Capital**, **Rebel Fund**, **Josh Buckley**, and others.
 
 ---
