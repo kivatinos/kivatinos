@@ -53,10 +53,6 @@ Serial entrepreneur building at the intersection of AI and finance. Previously c
         <h3>13K+</h3>
         <p>Invoices Processed</p>
       </td>
-      <td align="center" width="200">
-        <h3>7.2K+</h3>
-        <p>Customers Managed</p>
-      </td>
     </tr>
   </table>
 </div>
