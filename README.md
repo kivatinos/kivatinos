@@ -6,8 +6,8 @@ Serial entrepreneur building at the intersection of AI and finance. Previously c
 
 <div align="center">
   <a href="https://www.ycombinator.com/companies/loopfour"><img src="https://img.shields.io/badge/Y%20Combinator-2x%20Founder-orange?style=for-the-badge&logo=ycombinator&logoColor=white" alt="2x YC Founder" /></a>
-  <a href="https://www.loopfour.ai"><img src="https://img.shields.io/badge/loopfour.ai-CEO%20%26%20Co--founder-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMCIgY3k9IjEwIiByPSI0IiBmaWxsPSIjRjVBNjIzIi8+PC9zdmc+&logoColor=white" alt="loopfour" /></a>
-</div>
+  <!-- <a href="https://www.loopfour.ai"><img src="https://img.shields.io/badge/loopfour.ai-CEO%20%26%20Co--founder-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMCIgY3k9IjEwIiByPSI0IiBmaWxsPSIjRjVBNjIzIi8+PC9zdmc+&logoColor=white" alt="loopfour" /></a>
+</div> -->
 
 <p align="center">
   <a href="https://kivatinos.com"><img src="https://img.shields.io/badge/Website-kivatinos.com-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
